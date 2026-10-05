@@ -1,19 +1,21 @@
-# [Nom de l'application]
+# [Assist'Client]
 
-> Projet IA — BTS SIO 2 SLAM — [Prénom NOM] — octobre 2026
+> Projet IA — BTS SIO 2 SLAM — [Arthur CHAIZE] — octobre 2026
 > **URL publique** : https://[…].trycloudflare.com — code d'accès envoyé à l'enseignant par e-mail
 
 ## 1. Concevoir
 
-**Sujet choisi** : [n° et intitulé de la liste]
+**Sujet choisi** : [1 - Assistant de FAQ]
 
 **L'organisation (fictive) et son besoin**, en trois phrases : qui, quel problème aujourd'hui, ce que l'application change.
+La médiathèque les Tilleuls reçoit trop de questions qui sont très récurrente, donc on veut créer une application pour répondre aux
+clients sans avoir besoin d'harceler les employés.
 
 **Trois cas d'usage**, sous la forme « En tant que …, je veux …, afin de … » :
 
-1. …
-2. …
-3. …
+1. En tant que concepteur je dois répondre au problème
+2. Je veux faire gagner du temps aux employés
+3. Afin de recevoir ma paye
 
 **Ce que l'application ne fait pas** (au moins deux limites assumées) : …
 
