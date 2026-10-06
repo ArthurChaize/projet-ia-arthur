@@ -23,11 +23,9 @@ clients sans avoir besoin d'harceler les employés.
 
 | | |
 |---|---|
-| Carte graphique et mémoire vidéo (VRAM) | ex. NVIDIA RTX 3060, 12 Go — ou « aucune, processeur seul » |
-| Mémoire vive | … Go |
-| Modèle retenu | ex. `qwen2.5:7b` |
-| Pourquoi celui-là | ce que la VRAM permettait, ce que vous avez essayé avant |
-| Modèle comparé | ex. `qwen2.5:3b` |
+| Carte graphique et mémoire vidéo (VRAM) | NVIDIA RTX 3060 TI 8 Go |
+| Mémoire vive 2.2 Go |
+| Modèle retenu | `qwen2.5:3b` |
 
 ## 3. Piloter — le journal
 
